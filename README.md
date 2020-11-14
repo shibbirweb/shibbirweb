@@ -1,7 +1,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/shibbirweb)](https://github.com/shibbirweb)
 [![Gists Badge](https://badges.pufler.dev/gists/shibbirweb)](https://gist.github.com/shibbirweb)
-![GitHub last commit](https://img.shields.io/github/last-commit/shibbirweb/shibbirweb)
-![pv](https://pageview.vercel.app/?github_user=shibbirweb)
+[![Gists Badge](https://pageview.vercel.app/?github_user=shibbirweb)](https://gist.github.com/shibbirweb)
 
 
 **Languages and Tools:**
